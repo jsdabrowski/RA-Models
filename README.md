@@ -20,7 +20,7 @@ The repository contains one file:
 
 ## How to use
 
-First download ```uc-ra-models.html``` to your desired localisation and then open in your web browser.
+First download ```uc-ra-models.html``` to your desired localisation and then open it in your web browser.
 
 ## Citation
 
