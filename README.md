@@ -6,7 +6,7 @@ The repository shares models that have been used to define software engineering 
 
 The material is a part of the PhD thesis authored by Jacek Dąbrowski, entitled "Mining App Reviews to Support Software Engineering", University College London, March 2022.
 
-For any information, please contact the main contributor: Jacek Dąbrowski (j.dabrowski@cs.ucl.ac.uk)
+For any information, please contact the main contributor: Jacek Dąbrowski (jacek.dabrowski.16@alumni.ucl.ac.uk)
 
 or
 
